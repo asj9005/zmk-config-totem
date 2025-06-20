@@ -31,7 +31,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-
+    - name: prospector-zmk-module
+      remote: carrefinho
+      revision: main
     # ZMK modules
     - name: zmk-adaptive-key
       path: modules/zmk/adaptive-key
