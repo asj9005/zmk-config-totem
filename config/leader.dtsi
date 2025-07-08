@@ -14,7 +14,7 @@
         }; \
     };
 
-/* German umlauts */
+/* German umlauts */ 용도폐기
 ZMK_LEADER_SEQUENCE(de_ae,      &de_ae,         A)  // ä
 ZMK_LEADER_SEQUENCE(de_oe,      &de_oe,         O)  // ö
 ZMK_LEADER_SEQUENCE(de_ue,      &de_ue,         U)  // ü
@@ -54,3 +54,4 @@ ZMK_LEADER_SEQUENCE(ble,        &out OUT_BLE,   B L E)
 ZMK_LEADER_SEQUENCE(reset,      &sys_reset,     R E S E T)
 ZMK_LEADER_SEQUENCE(boot,       &bootloader,    B O O T)
 
+*/
