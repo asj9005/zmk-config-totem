@@ -20,7 +20,7 @@ ZMK_LEADER_SEQUENCE(de_oe,      &de_oe,         O)  // ö
 ZMK_LEADER_SEQUENCE(de_ue,      &de_ue,         U)  // ü
 ZMK_LEADER_SEQUENCE(de_eszett,  &de_eszett,     S)  // ß
 
-/* Greek letters
+ Greek letters
 ZMK_LEADER_SEQUENCE(el_alpha,   &el_alpha,      E A)  // α
 ZMK_LEADER_SEQUENCE(el_beta,    &el_beta,       E B)  // β
 ZMK_LEADER_SEQUENCE(el_gamma,   &el_gamma,      E G)  // γ
