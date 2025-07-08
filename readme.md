@@ -1,3 +1,13 @@
+# 수정점
+ - totem 키보드에 맞게 키맵수정
+ - prospector 동글 사용에 따른 조정
+   (쉴드 추가, west 조정, zephyr-full 사용 등)
+ - 새끼열 사용 빈도 줄이기 위한 키맵 조정
+ - 한글 사용을 염두한 소규모 수정
+   (콤보 한영전환, 그리스 리더키 삭제 등)
+
+
+
 # urob's zmk-config
 
 This is my personal [ZMK firmware](https://github.com/zmkfirmware/zmk/)
