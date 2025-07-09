@@ -5,7 +5,7 @@
                  LT RT                                                         \
                  LM RM                                                         \
         &sl 4    LB RB &kp LC(LS(LA(LG(Z))))                                   \
-        &kp LGUI LH RH &smart_mouse                                            \
+        &kp LGUI LH RH &kp LC(M)                                               \
     )
 
 #include "zmk-helpers/key-labels/totem.h"
